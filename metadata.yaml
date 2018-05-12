@@ -1,0 +1,34 @@
+_repo: JimsyThe-Christmas-Kid_28110
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Guischard, Charles
+    gutenberg_agent_id: '33147'
+    url: http://www.gutenberg.org/2009/agents/33147
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dalrymple, Leona
+    alias: Dalrymple, C. Leona
+    birthdate: 1884
+    gutenberg_agent_id: '6328'
+    url: http://www.gutenberg.org/2009/agents/6328
+description: ''
+gutenberg_issued: '2009-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28110'
+  lccn: '15024006'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas stories'
+- !lcsh 'New England -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Orphans -- Fiction'
+title: 'Jimsy: The Christmas Kid'
+url: http://www.gutenberg.org/ebooks/28110
